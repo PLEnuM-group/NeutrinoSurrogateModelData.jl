@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+NeutrinoSurrogateModelData = "434b49a6-8807-4413-9a8c-b0051c6fc167"
