@@ -1,7 +1,7 @@
 name = "NeutrinoSurrogateModelData"
 uuid = "434b49a6-8807-4413-9a8c-b0051c6fc167"
 authors = ["Christian Haack"]
-version = "1.0.0-DEV"
+version = "1.0.0"
 
 [compat]
 julia = "1.10"
